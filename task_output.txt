@@ -1,0 +1,2 @@
+total 0
+-rw-r--r-- 1 Admin 197121 0 Oct 15 10:28 task_output.txt
